@@ -1,7 +1,6 @@
 from services import FlightService
 
 def main():
-    """Main entry point for the Flight Management System."""
     service = FlightService()
 
     while True:
