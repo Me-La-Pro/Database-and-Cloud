@@ -6,7 +6,7 @@ def main():
 
     while True:
         print("\n╔═════════════════════════════════════════════╗")
-        print("║         Flight Management System             ║")
+        print("║         Flight Management System            ║")
         print("╚═════════════════════════════════════════════╝")
         print("Welcome! Select an option from the menu below.")
         print("Note: FlightID is a unique integer (e.g., 1).")
